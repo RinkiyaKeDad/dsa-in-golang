@@ -7,3 +7,5 @@
     - [Insertion Sort](./sorting/insertion-sort.md)
     - [Merge Sort](./sorting/merge-sort.md)
     - [Quick Sort](./sorting/quick-sort.md)
+- [Searching Algorithms]()
+    - [Binary Search](./searching/binary-search.md)

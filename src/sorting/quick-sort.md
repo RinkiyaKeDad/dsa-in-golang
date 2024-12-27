@@ -6,7 +6,7 @@ Quick Sort, as the name suggests, is supposed to be quicker than the O(N<sup>2</
 1. Putting the pivot in its correct spot (all smaller elements to the left and larger ones to the right of the pivot).
 1. Repeating the process for subarrays to the left and right of the pivot.
 
-The second step is actually pretty interesting when you think of how it’s achieved. We start one variable from `start - 1` (`i`) and the other from `start` (`j`). Anytime we find an element smaller than the pivot (last element of the array), we increment `i` and move this found element behind in the array to the position of `i` by swapping thw two. This way, we skip the elements larger than the pivot, and they end up getting swapped out towards the right side while the lesser elements come to the left side of the array. Let’s visualize this to understand better:
+The second step is actually pretty interesting when you think of how it’s achieved. We start one variable from `start - 1` (`i`) and the other from `start` (`j`). Anytime we find an element smaller than the pivot (last element of the array), we increment `i` and move this found element behind in the array to the position of `i` by swapping the two. This way, we skip the elements larger than the pivot, and they end up getting swapped out towards the right side while the lesser elements come to the left side of the array. Let’s visualize this to understand better:
 
 Initial array: [2, 4, 1, 3]
 
