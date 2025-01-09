@@ -1,6 +1,6 @@
 # Summary
 
-- [Introductino](../README.md)
+- [Introduction](../README.md)
 - [Sorting Algorithms](./sorting/README.md)
     - [Selection Sort](./sorting/selection-sort.md)
     - [Bubble Sort](./sorting/bubble-sort.md)
@@ -9,3 +9,5 @@
     - [Quick Sort](./sorting/quick-sort.md)
 - [Searching Algorithms]()
     - [Binary Search](./searching/binary-search.md)
+- [Linked Lists]()
+    - [Basics](./linkedlists/linkedlist-basics.md)
