@@ -10,4 +10,6 @@
 - [Searching Algorithms]()
     - [Binary Search](./searching/binary-search.md)
 - [Linked Lists]()
-    - [Basics](./linkedlists/linkedlist-basics.md)
+    - [Basics](./linked-lists/linkedlist-basics.md)
+    - [Inserting Methods](./linked-lists/linked-lists-insert.md)
+    - [Deleting Methods](./linked-lists/linked-lists-delete.md)
